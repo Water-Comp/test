@@ -10,6 +10,7 @@ namespace Konsolowka
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("XDDDDDSDDDDDDDD");
         }
     }
 }
